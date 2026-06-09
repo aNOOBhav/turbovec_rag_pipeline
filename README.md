@@ -150,7 +150,7 @@ ollama list
 Open `rag_turbovec.py` and confirm this path matches your machine:
 
 ```python
-WORLD_CUP_FILE = Path("/Users/aamajumd/turbovec/fifa_world_cup_2026_rag_input.txt")
+WORLD_CUP_FILE = Path("~turbovec/fifa_world_cup_2026_rag_input.txt")
 ```
 
 If your file is in the same repo folder, you can change it to:
