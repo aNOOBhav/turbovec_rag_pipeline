@@ -1,0 +1,230 @@
+FIFA WORLD CUP 2026 - RAG INPUT NOTES
+Last updated: 2026-06-09
+
+SECTION 1: OVERVIEW
+The FIFA World Cup 2026 is the first men's World Cup with 48 teams. It is co-hosted by Canada, Mexico, and the United States. The tournament runs from 11 June 2026 to 19 July 2026 and contains 104 matches.
+
+The format is 12 groups of 4 teams. The top two teams from each group, plus the eight best third-placed teams, advance to a 32-team knockout stage.
+
+Opening match: Mexico vs South Africa, Estadio Azteca / Mexico City Stadium, Mexico City, 11 June 2026.
+Final: MetLife Stadium / New York New Jersey Stadium, East Rutherford, New Jersey, 19 July 2026.
+
+SECTION 2: HOST COUNTRIES
+Host countries:
+- Canada
+- Mexico
+- United States
+
+Automatic qualifiers as hosts:
+- Canada
+- Mexico
+- United States
+
+SECTION 3: HOST CITIES AND VENUES
+Canada:
+- Toronto: BMO Field / Toronto Stadium
+- Vancouver: BC Place / BC Place Vancouver
+
+Mexico:
+- Guadalajara / Zapopan: Estadio Akron / Estadio Guadalajara
+- Mexico City: Estadio Azteca / Mexico City Stadium
+- Monterrey / Guadalupe: Estadio BBVA / Estadio Monterrey
+
+United States:
+- Atlanta: Mercedes-Benz Stadium / Atlanta Stadium
+- Boston / Foxborough: Gillette Stadium / Boston Stadium
+- Dallas / Arlington: AT&T Stadium / Dallas Stadium
+- Houston: NRG Stadium / Houston Stadium
+- Kansas City: Arrowhead Stadium / Kansas City Stadium
+- Los Angeles / Inglewood: SoFi Stadium / Los Angeles Stadium
+- Miami / Miami Gardens: Hard Rock Stadium / Miami Stadium
+- New York/New Jersey / East Rutherford: MetLife Stadium / New York New Jersey Stadium
+- Philadelphia: Lincoln Financial Field / Philadelphia Stadium
+- San Francisco Bay Area / Santa Clara: Levi's Stadium / San Francisco Bay Area Stadium
+- Seattle: Lumen Field / Seattle Stadium
+
+SECTION 4: GROUPS AND QUALIFIED TEAMS
+Group A:
+- Mexico
+- South Africa
+- South Korea
+- Czechia
+
+Group B:
+- Canada
+- Bosnia and Herzegovina
+- Qatar
+- Switzerland
+
+Group C:
+- Brazil
+- Morocco
+- Haiti
+- Scotland
+
+Group D:
+- United States
+- Paraguay
+- Australia
+- Turkey
+
+Group E:
+- Germany
+- Curacao
+- Ivory Coast
+- Ecuador
+
+Group F:
+- Netherlands
+- Japan
+- Sweden
+- Tunisia
+
+Group G:
+- Belgium
+- Egypt
+- Iran
+- New Zealand
+
+Group H:
+- Spain
+- Cape Verde
+- Saudi Arabia
+- Uruguay
+
+Group I:
+- France
+- Senegal
+- Iraq
+- Norway
+
+Group J:
+- Argentina
+- Algeria
+- Austria
+- Jordan
+
+Group K:
+- Portugal
+- DR Congo
+- Uzbekistan
+- Colombia
+
+Group L:
+- England
+- Croatia
+- Ghana
+- Panama
+
+First-time World Cup qualifiers in 2026 include Cape Verde, Curacao, Jordan, and Uzbekistan.
+
+SECTION 5: QUALIFICATION CRITERIA AND SLOT ALLOCATION
+The 2026 World Cup expanded from 32 to 48 teams. Canada, Mexico, and the United States qualified automatically as hosts.
+
+Confederation slot allocation:
+- AFC: 8 direct spots plus 1 inter-confederation playoff spot
+- CAF: 9 direct spots plus 1 inter-confederation playoff spot
+- CONCACAF: 6 direct spots including the 3 host nations, plus 2 inter-confederation playoff spots
+- CONMEBOL: 6 direct spots plus 1 inter-confederation playoff spot
+- OFC: 1 direct spot plus 1 inter-confederation playoff spot
+- UEFA: 16 direct spots
+
+Inter-confederation playoffs:
+- Six teams competed for the final two World Cup places.
+- The playoff field included one team each from AFC, CAF, CONMEBOL, and OFC, plus two teams from CONCACAF.
+- The playoff tournament was held in Mexico in March 2026.
+
+SECTION 6: TOURNAMENT FORMAT
+Group stage:
+- 12 groups of 4 teams.
+- Each team plays 3 group matches.
+- Win = 3 points.
+- Draw = 1 point.
+- Loss = 0 points.
+- The top two teams in each group advance.
+- The eight best third-placed teams also advance.
+
+Knockout stage:
+- 32 teams enter the knockout stage.
+- Rounds: Round of 32, Round of 16, Quarter-finals, Semi-finals, Third-place match, Final.
+- Knockout matches are single elimination.
+- If a knockout match is tied after 90 minutes, 30 minutes of extra time is played.
+- If still tied after extra time, the winner is decided by a penalty shootout.
+
+SECTION 7: GROUP-STAGE TIEBREAKERS
+The standard FIFA group ranking logic is:
+1. Points in all group matches
+2. Goal difference in all group matches
+3. Goals scored in all group matches
+4. Points in matches between tied teams
+5. Goal difference in matches between tied teams
+6. Goals scored in matches between tied teams
+7. Fair play points / team conduct score
+8. Drawing of lots by FIFA
+
+Fair play deductions:
+- Yellow card: -1 point
+- Indirect red card / second yellow: -3 points
+- Direct red card: -4 points
+- Yellow card plus direct red card: -5 points
+
+SECTION 8: POSSIBLE ROUND OF 32 MATCHUPS
+The Round of 32 uses fixed bracket slots. Some third-place pairings depend on which eight third-placed teams qualify.
+
+Match 73: Runner-up Group A vs Runner-up Group B
+Match 74: Winner Group E vs Best 3rd place from Groups A/B/C/D/F
+Match 75: Winner Group F vs Runner-up Group C
+Match 76: Winner Group C vs Runner-up Group F
+Match 77: Winner Group I vs Best 3rd place from Groups C/D/F/G/H
+Match 78: Runner-up Group E vs Runner-up Group I
+Match 79: Winner Group A vs Best 3rd place from Groups C/E/F/H/I
+Match 80: Winner Group L vs Best 3rd place from Groups E/H/I/J/K
+Match 81: Winner Group D vs Best 3rd place from Groups B/E/F/I/J
+Match 82: Winner Group G vs Best 3rd place from Groups A/E/H/I/J
+Match 83: Runner-up Group K vs Runner-up Group L
+Match 84: Winner Group H vs Runner-up Group J
+Match 85: Winner Group B vs Best 3rd place from Groups E/F/G/I/J
+Match 86: Winner Group J vs Runner-up Group H
+Match 87: Winner Group K vs Best 3rd place from Groups D/E/I/J/L
+Match 88: Runner-up Group D vs Runner-up Group G
+
+SECTION 9: NOTABLE GROUP-STAGE MATCHUPS
+Possible high-interest group-stage matches include:
+- Mexico vs South Africa: opening match and a rematch of the 2010 World Cup opener.
+- Brazil vs Morocco: Group C match between a five-time champion and a 2022 semi-finalist.
+- United States vs Paraguay / Australia / Turkey: host-nation group matches in Group D.
+- Spain vs Uruguay: Group H match between major football nations.
+- France vs Senegal: Group I match with strong historical and competitive interest.
+- Argentina vs Austria / Algeria / Jordan: defending champion Argentina's Group J campaign.
+- Portugal vs Colombia: Group K match between strong attacking sides.
+- England vs Croatia: Group L match and a rematch of the 2018 World Cup semi-final.
+
+SECTION 10: IMPORTANT DATES
+- Group stage: 11 June 2026 to 27 June 2026
+- Round of 32: 28 June 2026 to 3 July 2026
+- Round of 16: 4 July 2026 to 7 July 2026
+- Quarter-finals: 9 July 2026 to 11 July 2026
+- Semi-finals: 14 July 2026 to 15 July 2026
+- Third-place match: 18 July 2026
+- Final: 19 July 2026
+
+SECTION 11: RAG-FRIENDLY KEY FACTS
+- Tournament: FIFA World Cup 2026
+- Hosts: Canada, Mexico, United States
+- Teams: 48
+- Matches: 104
+- Groups: 12 groups of 4 teams
+- Knockout qualifiers: top 2 from each group plus 8 best third-placed teams
+- Opening venue: Estadio Azteca / Mexico City Stadium
+- Final venue: MetLife Stadium / New York New Jersey Stadium
+- First-time qualifiers: Cape Verde, Curacao, Jordan, Uzbekistan
+- Main technical format change: expansion to 48 teams and addition of Round of 32
+
+SECTION 12: SOURCES
+- FIFA World Cup 2026 official information and match schedule
+- FIFA World Cup 2026 regulations
+- FIFA host city and venue announcements
+- Public tournament group and schedule summaries from major sports/news publishers
+- URL: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026
+- URL: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/match-schedule
+- URL: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/host-cities-announced
